@@ -1,5 +1,5 @@
 # calculator
-Java calculator using GUI 
+Java Calculator with a Graphical User Interface (GUI)
 ---
 
 ## Simple Java (Graphical User Interface)
