@@ -1,10 +1,10 @@
 # calculator
-Java calculator(Gui)
+Java calculator using GUI 
 ---
 
-## Simple Java Calculator
+## Simple Java (Graphical User Interface)
 
-This Java program implements a basic calculator using Swing for the graphical interface. It allows users to perform arithmetic operations (+, -, *, /) on two numbers, along with decimal point input, deletion of characters, and clearing the input field.
+This Java program implements a basic calculator using Swing for the graphical interface. It allows users to perform arithmetic operations (+, -, *, /) on two numbers, along with decimal point input, character deletion, and clearing the input field.
 
 ### Features:
 - **Operations Supported:** Addition, Subtraction, Multiplication, Division
